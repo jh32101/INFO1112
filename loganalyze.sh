@@ -15,3 +15,5 @@ elif [ $# -gt 1 ]; then
 fi
 
 echo "$dir"
+
+echo "hello"
